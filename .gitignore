@@ -1,0 +1,12 @@
+.spi_module.ko.cmd
+.spi_module.mod.o.cmd
+.spi_module.o.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+spi_module.ko
+spi_module.layout
+spi_module.mod.c
+spi_module.mod.o
+spi_module.o
+
